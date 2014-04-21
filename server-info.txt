@@ -2,7 +2,7 @@
 FILE=/tmp/status.txt
 HOST=`/bin/hostname`
 SUBJECT="NewServerInfo:$HOST"
-EMAILID="devops@xxxxx.com"
+EMAILID="devops@adnear.com"
 
 #for i  in 1 2 3
 #do
